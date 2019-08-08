@@ -1,0 +1,3 @@
+[submodule "themes/charity-hugo-theme"]
+	path = themes/charity-hugo-theme
+	url = https://github.com/TenSketch/charity-hugo-theme.git
