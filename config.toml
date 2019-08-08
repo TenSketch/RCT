@@ -1,0 +1,7 @@
+baseURL = "https://realcharitabletrust.org/"
+languageCode = "en-us"
+title = "RCT"
+theme = "charity-hugo-theme"
+
+[params]
+    description = "charity organization"
