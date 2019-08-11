@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on RCT</title>
+    <link>https://realcharitabletrust.org/tags/projects/</link>
+    <description>Recent content in Projects on RCT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 18:41:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://realcharitabletrust.org/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://realcharitabletrust.org/projects/home/</link>
+      <pubDate>Sat, 10 Aug 2019 18:41:04 +0530</pubDate>
+      
+      <guid>https://realcharitabletrust.org/projects/home/</guid>
+      <description>Children Development Activities Empower the children in distress and difficult situation through Non-Formal Education, evening tuition centres and sports club.
+Youth Development Activities Educate the youth for taking up the role of leadership in society through carrier guidance and leadership training programmes.
+Women Empowerment Programmes Facilitate the women to be empowered through the formation of self-help groups and women&amp;rsquo;s rights education and safety and entrepreneurial training.
+Environmental Development Activities Promoting community health and clean environment through solid waste management and health-related programmes for ensuring healthy living.</description>
+    </item>
+    
+  </channel>
+</rss>
