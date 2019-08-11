@@ -1,4 +1,4 @@
-baseURL = "https://realcharitabletrust.org/"
+baseURL = "https://www.realcharitabletrust.org/"
 languageCode = "en-us"
 title = "RCT"
 theme = "charity-hugo-theme"
