@@ -15,6 +15,7 @@ draft: false
  - Health is wealth. Taking up health-related programmes for a healthy society.
  - Networking and linkages for rendering quality and sustainable development. 
 
+---
 ## The Structure
 
 &emsp;&emsp;Ours is a structure centred on growth. We strive to understand the larger ecology and adapt to the changing environment. Open and flexible, we are structured to assimilate different strengths, energies and approaches to solve different needs. We do this so that we can support each other and find opportunities for collaboration and creativity, delivered in a focused and efficient manner. We work in transparent and accountable with the partners and alliances. We have the motto of jointly working together yet depending none for the better development of the social-ecological system.

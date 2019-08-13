@@ -1,7 +1,7 @@
 ---
 title: "NULM-Shelter for Urban Homeless-Men (2016-2018)"
 image: "/images/slide8.jpg"
-date: 2019-08-10T19:16:36+05:30
+date: 2019-08-10T11:16:36+05:30
 tags: ["health"]
 draft: false
 ---

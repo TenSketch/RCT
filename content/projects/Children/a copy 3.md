@@ -1,7 +1,7 @@
 ---
 title: "Children Sangam (2016-2018)"
 image: "/images/g12.jpg"
-date: 2019-08-10T18:32:47+05:30
+date: 2019-08-10T18:31:47+05:30
 tags: ["children"]
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Puzhal Central jail Intervention-Community College (2017-2018)"
 image: "/images/jail-programme.jpg"
-date: 2019-08-10T18:41:04+05:30
+date: 2019-08-10T15:41:04+05:30
 tags: ["youth"]
 draft: false
 ---

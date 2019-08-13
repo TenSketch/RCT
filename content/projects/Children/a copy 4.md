@@ -1,7 +1,7 @@
 ---
 title: "Skill Development Training Program (NCLP)-(2017-2018)"
 image: "/images/card-1.jpg"
-date: 2019-08-10T18:32:47+05:30
+date: 2019-08-10T18:29:47+05:30
 tags: ["children"]
 draft: false
 ---

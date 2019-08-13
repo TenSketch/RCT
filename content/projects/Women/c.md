@@ -1,8 +1,9 @@
 ---
 title: "Women Empowerment activities"
 image: "/images/women-bg.jpg"
-date: 2019-08-10T19:06:36+05:30
-tags: ["women"]
+description: women
+date: 2019-08-10T14:35:36+05:30
+tags: ["women","pagenav"]
 draft: false
 ---
 
@@ -15,4 +16,3 @@ draft: false
  - Training programs on Income generation, production and marketing
  - Health awareness programs and medical camps
  - Legal, social-political awareness
----

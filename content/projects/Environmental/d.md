@@ -1,8 +1,9 @@
 ---
 title: "Environmental Development Activities"
 image: "/images/environ1.jpg"
-date: 2019-08-10T20:08:37+05:30
-tags: ["environment"]
+description: environment
+date: 2019-08-10T13:30:37+05:30
+tags: ["environment","pagenav"]
 draft: false
 ---
 
