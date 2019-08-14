@@ -6,7 +6,15 @@ tags: ["about"]
 draft: false
 ---
 
-## The Strategy:
+### Mission
+ - Enhancing the people for sustainable development through community mobilization and organization.
+ - Empowering the children in distress and difficult situation through Non-Formal Education, evening tuition centres and sports club.
+ - Educate the youth for taking up the role of leadership in society through carrier guidance and leadership training programmes.
+ - Facilitating women to be empowered through the formation of self-help groups and women's rights education and safety and entrepreneurial training. 
+ - Promoting community health and cleanliness through solid waste management and health-related programmes for ensuring healthy living. 
+
+---
+### The Strategy
 
  - From a common approach to an integrated approach aiming to human development.
  - Initiating a sustainable development for the empowerment of women and children 
@@ -16,6 +24,6 @@ draft: false
  - Networking and linkages for rendering quality and sustainable development. 
 
 ---
-## The Structure
+### The Structure
 
 &emsp;&emsp;Ours is a structure centred on growth. We strive to understand the larger ecology and adapt to the changing environment. Open and flexible, we are structured to assimilate different strengths, energies and approaches to solve different needs. We do this so that we can support each other and find opportunities for collaboration and creativity, delivered in a focused and efficient manner. We work in transparent and accountable with the partners and alliances. We have the motto of jointly working together yet depending none for the better development of the social-ecological system.
