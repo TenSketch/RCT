@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.realcharitabletrust.org/slider/s5/</loc>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/s4/</loc>
+    <lastmod>2019-12-19T20:39:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/s3/</loc>
+    <lastmod>2019-12-19T20:39:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/s2/</loc>
+    <lastmod>2019-12-19T20:39:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/s1/</loc>
+    <lastmod>2019-12-19T20:38:30+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.realcharitabletrust.org/governance/legal/</loc>
     <lastmod>2019-08-10T18:52:47+05:30</lastmod>
   </url>
@@ -184,7 +209,19 @@
   
   <url>
     <loc>https://www.realcharitabletrust.org/</loc>
-    <lastmod>2019-08-10T18:52:47+05:30</lastmod>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/slider/</loc>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/</loc>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
     <priority>0</priority>
   </url>
   
