@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Real Charitable Trust</title>
+    <link>https://www.realcharitabletrust.org/categories/projects/</link>
+    <description>Recent content in projects on Real Charitable Trust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 18:40:47 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.realcharitabletrust.org/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Children Development Projects</title>
+      <link>https://www.realcharitabletrust.org/children-development-projects/home/</link>
+      <pubDate>Sat, 10 Aug 2019 18:40:47 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/children-development-projects/home/</guid>
+      <description>Every child has the right to good education and health. The future of a nation mainly depends on the Gross National Happiness which is proportionate to the growth and development of children.
+Real Charitable Trust focusses on nurturing the personal and social life of children. The goal is to provide equal rights to every child without any social, economic and religious differences. RCT served more than 1500 children in and around the slums of Chennai.</description>
+    </item>
+    
+  </channel>
+</rss>

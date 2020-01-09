@@ -1,6 +1,6 @@
 baseURL = "https://www.realcharitabletrust.org/"
 languageCode = "en-us"
-title = "RCT"
+title = "Real Charitable Trust"
 theme = "charity-hugo-theme"
 
 [params]

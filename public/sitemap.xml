@@ -1,9 +1,629 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.realcharitabletrust.org/gallery/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_1/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_2/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_3/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_4/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_5/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_6/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/youth/youth_7/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/youthgal/</loc>
+    <lastmod>2020-01-08T20:41:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/gallery/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_1/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_10/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_11/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_2/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_3/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_4/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_5/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_6/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_7/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_8/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/women/women_9/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/womengal/</loc>
+    <lastmod>2020-01-05T23:47:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_1/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_10/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_11/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_12/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_13/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_14/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_15/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_16/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_17/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_18/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_19/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_2/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_20/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_21/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_22/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_23/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_24/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_25/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_26/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_27/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_28/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_29/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_3/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_30/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_31/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_32/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_33/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_34/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_35/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_36/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_37/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_38/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_39/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_4/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_40/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_41/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_42/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_43/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_44/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_45/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_46/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_47/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_48/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_49/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_5/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_50/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_51/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_52/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_53/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_54/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_55/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_56/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_57/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_58/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_59/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_6/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_60/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_61/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_62/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_63/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_64/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_65/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_66/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_67/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_68/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_7/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_8/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/environment/environment_9/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/environmentgal/</loc>
+    <lastmod>2020-01-02T10:45:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/1-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/10-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/11-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/12-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/13-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/14-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/15-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/16-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/17-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/2-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/3-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/4-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/5-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/6-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/7-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/8-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/elder/9-elder/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/eldergal/</loc>
+    <lastmod>2020-01-01T23:10:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-2/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-3/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-4/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-5/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-6/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-7/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-8/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy-9/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children-copy/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/gallery/children/1_children/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/childrengal/</loc>
+    <lastmod>2020-01-01T13:43:45+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.realcharitabletrust.org/slider/s5/</loc>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/slider/</loc>
+    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/slider/</loc>
     <lastmod>2019-12-19T20:39:45+05:30</lastmod>
   </url>
   
@@ -28,18 +648,48 @@
   </url>
   
   <url>
-    <loc>https://www.realcharitabletrust.org/governance/legal/</loc>
+    <loc>https://www.realcharitabletrust.org/tags/legal/</loc>
     <lastmod>2019-08-10T18:52:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.realcharitabletrust.org/projects/home/</loc>
-    <lastmod>2019-08-10T18:41:04+05:30</lastmod>
+    <loc>https://www.realcharitabletrust.org/legal/home/</loc>
+    <lastmod>2019-08-10T18:52:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.realcharitabletrust.org/projects/children/a/</loc>
+    <loc>https://www.realcharitabletrust.org/legal/</loc>
+    <lastmod>2019-08-10T18:52:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/categories/</loc>
     <lastmod>2019-08-10T18:40:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/children/</loc>
+    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/children-development-projects/home/</loc>
+    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/children-development-projects/</loc>
+    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/categories/projects/</loc>
+    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/about/</loc>
+    <lastmod>2019-08-10T18:32:47+05:30</lastmod>
   </url>
   
   <url>
@@ -48,199 +698,73 @@
   </url>
   
   <url>
-    <loc>https://www.realcharitabletrust.org/projects/children/a-copy/</loc>
-    <lastmod>2019-08-10T18:32:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/children/a-copy-3/</loc>
-    <lastmod>2019-08-10T18:31:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/children/a-copy-2/</loc>
-    <lastmod>2019-08-10T18:30:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/children/a-copy-4/</loc>
-    <lastmod>2019-08-10T18:29:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/youth/b/</loc>
-    <lastmod>2019-08-10T16:39:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/youth/b-copy/</loc>
-    <lastmod>2019-08-10T15:41:04+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/women/c/</loc>
-    <lastmod>2019-08-10T14:35:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d/</loc>
-    <lastmod>2019-08-10T13:30:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy/</loc>
-    <lastmod>2019-08-10T13:08:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-2/</loc>
-    <lastmod>2019-08-10T13:08:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-3/</loc>
-    <lastmod>2019-08-10T13:08:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-4/</loc>
-    <lastmod>2019-08-10T13:08:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-5/</loc>
-    <lastmod>2019-08-10T13:08:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-6/</loc>
-    <lastmod>2019-08-10T13:08:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/environmental/d-copy-7/</loc>
-    <lastmod>2019-08-10T13:07:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/women/c-copy/</loc>
-    <lastmod>2019-08-10T13:05:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/health/e/</loc>
-    <lastmod>2019-08-10T12:25:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/health/e-copy/</loc>
-    <lastmod>2019-08-10T11:16:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/health/e-copy-2/</loc>
-    <lastmod>2019-08-10T11:16:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/about/</loc>
-    <lastmod>2019-08-10T18:32:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.realcharitabletrust.org/about/</loc>
     <lastmod>2019-08-10T18:32:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/children/</loc>
-    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/environment/</loc>
-    <lastmod>2019-08-10T13:30:37+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/governance/</loc>
-    <lastmod>2019-08-10T18:52:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/health/</loc>
-    <lastmod>2019-08-10T12:25:36+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/legal/</loc>
-    <lastmod>2019-08-10T18:52:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/pagenav/</loc>
-    <lastmod>2019-08-10T18:40:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/projects/</loc>
-    <lastmod>2019-08-10T18:41:04+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.realcharitabletrust.org/tags/projects/</loc>
-    <lastmod>2019-08-10T18:41:04+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/</loc>
-    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/slider/</loc>
-    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/slider/</loc>
-    <lastmod>2019-12-19T20:39:45+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/</loc>
-    <lastmod>2019-08-10T18:32:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.realcharitabletrust.org/tags/women/</loc>
-    <lastmod>2019-08-10T14:35:36+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-10T16:39:04+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.realcharitabletrust.org/tags/youth/</loc>
     <lastmod>2019-08-10T16:39:04+05:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/youth-development-projects/</loc>
+    <lastmod>2019-08-10T16:39:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/youth-development-projects/home/</loc>
+    <lastmod>2019-08-10T16:39:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/women/</loc>
+    <lastmod>2019-08-10T14:35:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/women-empowerment-projects/</loc>
+    <lastmod>2019-08-10T14:35:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/women-empowerment-projects/home/</loc>
+    <lastmod>2019-08-10T14:35:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/environment/</loc>
+    <lastmod>2019-08-10T13:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/environmental-protection-projects/home/</loc>
+    <lastmod>2019-08-10T13:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/environmental-protection-projects/</loc>
+    <lastmod>2019-08-10T13:30:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/tags/elder/</loc>
+    <lastmod>2019-08-10T12:25:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/elderly-care-projects/</loc>
+    <lastmod>2019-08-10T12:25:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.realcharitabletrust.org/elderly-care-projects/home/</loc>
+    <lastmod>2019-08-10T12:25:36+05:30</lastmod>
   </url>
   
 </urlset>

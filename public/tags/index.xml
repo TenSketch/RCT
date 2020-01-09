@@ -1,81 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on RCT</title>
+    <title>Tags on Real Charitable Trust</title>
     <link>https://www.realcharitabletrust.org/tags/</link>
-    <description>Recent content in Tags on RCT</description>
+    <description>Recent content in Tags on Real Charitable Trust</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2019 18:32:47 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 20:41:27 +0530</lastBuildDate>
     
 	<atom:link href="https://www.realcharitabletrust.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://www.realcharitabletrust.org/tags/about/</link>
-      <pubDate>Sat, 10 Aug 2019 18:32:47 +0530</pubDate>
+      <title>youthgal</title>
+      <link>https://www.realcharitabletrust.org/tags/youthgal/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/about/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/youthgal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Children</title>
-      <link>https://www.realcharitabletrust.org/tags/children/</link>
-      <pubDate>Sat, 10 Aug 2019 18:40:47 +0530</pubDate>
+      <title>gallery</title>
+      <link>https://www.realcharitabletrust.org/tags/gallery/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/children/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/gallery/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Environment</title>
-      <link>https://www.realcharitabletrust.org/tags/environment/</link>
-      <pubDate>Sat, 10 Aug 2019 13:30:37 +0530</pubDate>
+      <title>womengal</title>
+      <link>https://www.realcharitabletrust.org/tags/womengal/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/environment/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/womengal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Health</title>
-      <link>https://www.realcharitabletrust.org/tags/health/</link>
-      <pubDate>Sat, 10 Aug 2019 12:25:36 +0530</pubDate>
+      <title>environmentgal</title>
+      <link>https://www.realcharitabletrust.org/tags/environmentgal/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/health/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/environmentgal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Legal</title>
-      <link>https://www.realcharitabletrust.org/tags/legal/</link>
-      <pubDate>Sat, 10 Aug 2019 18:52:47 +0530</pubDate>
+      <title>eldergal</title>
+      <link>https://www.realcharitabletrust.org/tags/eldergal/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/legal/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/eldergal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pagenav</title>
-      <link>https://www.realcharitabletrust.org/tags/pagenav/</link>
-      <pubDate>Sat, 10 Aug 2019 18:40:47 +0530</pubDate>
+      <title>childrengal</title>
+      <link>https://www.realcharitabletrust.org/tags/childrengal/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/pagenav/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/childrengal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://www.realcharitabletrust.org/tags/projects/</link>
-      <pubDate>Sat, 10 Aug 2019 18:41:04 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slider</title>
+      <title>slider</title>
       <link>https://www.realcharitabletrust.org/tags/slider/</link>
       <pubDate>Thu, 19 Dec 2019 20:39:45 +0530</pubDate>
       
@@ -84,7 +75,52 @@
     </item>
     
     <item>
-      <title>Women</title>
+      <title>legal</title>
+      <link>https://www.realcharitabletrust.org/tags/legal/</link>
+      <pubDate>Sat, 10 Aug 2019 18:52:47 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/legal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>children</title>
+      <link>https://www.realcharitabletrust.org/tags/children/</link>
+      <pubDate>Sat, 10 Aug 2019 18:40:47 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://www.realcharitabletrust.org/tags/about/</link>
+      <pubDate>Sat, 10 Aug 2019 18:32:47 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://www.realcharitabletrust.org/tags/projects/</link>
+      <pubDate>Sat, 10 Aug 2019 16:39:04 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youth</title>
+      <link>https://www.realcharitabletrust.org/tags/youth/</link>
+      <pubDate>Sat, 10 Aug 2019 16:39:04 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/youth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>women</title>
       <link>https://www.realcharitabletrust.org/tags/women/</link>
       <pubDate>Sat, 10 Aug 2019 14:35:36 +0530</pubDate>
       
@@ -93,11 +129,20 @@
     </item>
     
     <item>
-      <title>Youth</title>
-      <link>https://www.realcharitabletrust.org/tags/youth/</link>
-      <pubDate>Sat, 10 Aug 2019 16:39:04 +0530</pubDate>
+      <title>environment</title>
+      <link>https://www.realcharitabletrust.org/tags/environment/</link>
+      <pubDate>Sat, 10 Aug 2019 13:30:37 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/tags/youth/</guid>
+      <guid>https://www.realcharitabletrust.org/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elder</title>
+      <link>https://www.realcharitabletrust.org/tags/elder/</link>
+      <pubDate>Sat, 10 Aug 2019 12:25:36 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/tags/elder/</guid>
       <description></description>
     </item>
     

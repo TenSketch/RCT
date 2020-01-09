@@ -1,15 +1,1032 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RCT</title>
+    <title>Real Charitable Trust</title>
     <link>https://www.realcharitabletrust.org/</link>
-    <description>Recent content on RCT</description>
+    <description>Recent content on Real Charitable Trust</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 20:39:45 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 20:41:27 +0530</lastBuildDate>
     
 	<atom:link href="https://www.realcharitabletrust.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_1/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_2/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_3/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_4/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_5/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_6/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youth_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/youth/youth_7/</link>
+      <pubDate>Wed, 08 Jan 2020 20:41:27 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/youth/youth_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_1/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_10/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_11/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_2/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_3/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_4/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_5/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_6/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_7/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_8/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/women/women_9/</link>
+      <pubDate>Sun, 05 Jan 2020 23:47:03 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/women/women_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_1/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_10/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_11/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_12/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_13/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_14/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_15/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_16/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_17/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_18/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_19/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_2/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_20/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_21/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_22/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_23/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_24/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_25/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_26/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_27/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_28/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_29/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_3/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_30/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_31/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_32/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_33/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_34/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_35/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_36/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_37/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_38/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_39/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_4/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_40/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_41/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_42/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_43/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_44/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_45/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_46/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_47/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_48/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_49/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_5/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_50/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_51/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_52/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_53/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_54/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_55/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_56/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_57/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_58/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_59/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_6/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_60/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_61/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_62/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_63/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_64/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_65/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_66/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_67/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_68/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_7/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_8/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment_1</title>
+      <link>https://www.realcharitabletrust.org/gallery/environment/environment_9/</link>
+      <pubDate>Thu, 02 Jan 2020 10:45:38 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/environment/environment_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/1-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/1-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/10-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/10-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/11-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/11-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/12-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/12-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/13-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/13-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/14-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/14-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/15-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/15-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/16-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/16-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/17-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/17-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/2-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/2-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/3-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/3-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/4-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/4-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/5-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/5-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/6-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/6-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/7-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/7-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/8-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/8-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1 Elder</title>
+      <link>https://www.realcharitabletrust.org/gallery/elder/9-elder/</link>
+      <pubDate>Wed, 01 Jan 2020 23:10:31 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/elder/9-elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-2/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-3/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-4/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-5/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-6/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-7/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-8/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy-9/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children-copy/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1_children</title>
+      <link>https://www.realcharitabletrust.org/gallery/children/1_children/</link>
+      <pubDate>Wed, 01 Jan 2020 13:43:45 +0530</pubDate>
+      
+      <guid>https://www.realcharitabletrust.org/gallery/children/1_children/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Children Development</title>
@@ -58,222 +1075,71 @@
     
     <item>
       <title>Legal and Finance</title>
-      <link>https://www.realcharitabletrust.org/governance/legal/</link>
+      <link>https://www.realcharitabletrust.org/legal/home/</link>
       <pubDate>Sat, 10 Aug 2019 18:52:47 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/governance/legal/</guid>
-      <description>Real Charitable Trust is a registered public charitable trust, and we are administered by a board responsible for strategy, policy, budgets and results, who ensure that the organization complies with rules and regulations. On this page, you will find information regarding the legal status of Real Charitable Trust. The registered office of Real Charitable Trust is in Chennai, TN with field &amp;amp; project offices in eight locations in three districts of Tamil Nadu, namely Chennai, Kancheepuram and Thiruvallur district.</description>
+      <guid>https://www.realcharitabletrust.org/legal/home/</guid>
+      <description>Governing law and jurisdiction The laws of Indian government this policy. Dispute if any, relating to any matter relating to or arising of out of this policy shall be subject to the exclusive jurisdiction of the appropriate courts at Chennai. Real Charitable Trust is a registered public charitable trust under the Indian Trusts Act
+ Trust Registration: Chennai North-BK IV- 4445 / 2007, Dated- 26/12/2007 12 A: DIT (E) No-2 (1892) 07-08, Dated- 08/09/2008 80G: DIT (E) No-2 (1892) / 07-08, Dated- 11/02/2010 FCRA: 075901345, Dated- 02/03/2012 Social Welfare Board No: TN/00000091/AGP/ 9-10 / 170  The registered office of Real Charitable Trust is in Vysarpadi, Chennai, TN with field &amp;amp; project offices in eight locations in three districts of Tamil Nadu; Chennai, Kanchipuram and Thiruvallur.</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://www.realcharitabletrust.org/projects/home/</link>
-      <pubDate>Sat, 10 Aug 2019 18:41:04 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/home/</guid>
-      <description>Children Development Activities Empower the children in distress and difficult situation through Non-Formal Education, evening tuition centres and sports club.
-Youth Development Activities Educate the youth for taking up the role of leadership in society through carrier guidance and leadership training programmes.
-Women Empowerment Programmes Facilitate the women to be empowered through the formation of self-help groups and women&amp;rsquo;s rights education and safety and entrepreneurial training.
-Environmental Development Activities Promoting community health and clean environment through solid waste management and health-related programmes for ensuring healthy living.</description>
-    </item>
-    
-    <item>
-      <title>Children Development Activities</title>
-      <link>https://www.realcharitabletrust.org/projects/children/a/</link>
+      <title>Children Development Projects</title>
+      <link>https://www.realcharitabletrust.org/children-development-projects/home/</link>
       <pubDate>Sat, 10 Aug 2019 18:40:47 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/projects/children/a/</guid>
-      <description>It is important to have a strong foundation in every aspect of the personality such as emotional, social, mental and physical of children. We aim was to develop positive school cultures on the basis of the rights of the child and to improve achievement for all children through having schools and early childhood education centres become learning communities that know, promote, and live human rights and responsibilities. At present, our trust reaches out around 1200 children in the slums of north Chennai as well as rural areas through the following programs,</description>
+      <guid>https://www.realcharitabletrust.org/children-development-projects/home/</guid>
+      <description>Every child has the right to good education and health. The future of a nation mainly depends on the Gross National Happiness which is proportionate to the growth and development of children.
+Real Charitable Trust focusses on nurturing the personal and social life of children. The goal is to provide equal rights to every child without any social, economic and religious differences. RCT served more than 1500 children in and around the slums of Chennai.</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Us</title>
       <link>https://www.realcharitabletrust.org/about/home/</link>
       <pubDate>Sat, 10 Aug 2019 18:32:47 +0530</pubDate>
       
       <guid>https://www.realcharitabletrust.org/about/home/</guid>
-      <description>Mission  Enhancing the people for sustainable development through community mobilization and organization. Empowering the children in distress and difficult situation through Non-Formal Education, evening tuition centres and sports club. Educate the youth for taking up the role of leadership in society through carrier guidance and leadership training programmes. Facilitating women to be empowered through the formation of self-help groups and women&amp;rsquo;s rights education and safety and entrepreneurial training. Promoting community health and cleanliness through solid waste management and health-related programmes for ensuring healthy living.</description>
+      <description>Real Charitable Trust was founded on 26th December 2012 by Mr. Lawrence from Vyasarpadi, Chennai.
+Vision The vision of RCT is to protect human rights and the environment.
+Mission  Support elderly people with basic necessities of life. Empower children to continue primary education and support their health, sports, etc. Protect the environment through Solid Waste Management, afforestation, community cleanliness and hygiene programs. Empower women through Self Help Groups (SHG). Educate and train youth on ethics, values and life skills.</description>
     </item>
     
     <item>
-      <title>Supplementary Education Centre - (2015-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/children/a-copy/</link>
-      <pubDate>Sat, 10 Aug 2019 18:32:47 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/children/a-copy/</guid>
-      <description>&amp;emsp;&amp;emsp;Real Charitable Trust implemented conducting supplementary education centre at Nehru Nagar, Megzinepuram, C Kalyanapuram Sundaram Street, RR Nagar, Singaravelar Nagar of North Chennai and Kothimangalam village, Malaninatham village, Irumbuli village of Kanchipuram District to provide special coaching for 10th and Higher secondary students including Spoken English, Summer camps for Slum and Rural Children. This programme was funded by LMK Enterprises and as of now actively we reached around 800 children through this programme.</description>
-    </item>
-    
-    <item>
-      <title>Children Sangam (2016-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/children/a-copy-3/</link>
-      <pubDate>Sat, 10 Aug 2019 18:31:47 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/children/a-copy-3/</guid>
-      <description>&amp;emsp;&amp;emsp;Real Charitable Trust actively formed 200 Children’s Sangam in and around Chennai, Thiruvallur and Kanchipuram district of Tamil Nadu. Advocated through Children Sangam meetings on Child Rights, promotion of quality Anganwadi centers with Pacca building, Construction of child-friendly toilet, Protected drinking water, Electricity facilities, Display of information board about the services of Anganwadi centers (indoor and outdoor services), Playground and compound wall facilities, Smoke free kitchen, Kitchen garden and Observation of Anganwadi Day on November 21st.</description>
-    </item>
-    
-    <item>
-      <title>Walk and Talk Program- The Eureka SPARK Programme (2016-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/children/a-copy-2/</link>
-      <pubDate>Sat, 10 Aug 2019 18:30:47 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/children/a-copy-2/</guid>
-      <description>&amp;emsp;&amp;emsp;Real Charitable Trust implemented to organize supplementary centres to provide easy way teaching English for Slum and Urban children totally with 5 centres at North Chennai for urban and for rural children 5 centres at Kanchipuram district. Totally around 450 children were supported through this programme. It was a programme of AID India for street and working children. This program followed the method to Training of Teacher initially who will educate the students, next mobilize the right candidate and provide and distribute the kit for training, and finally train and certify the beneficiaries.</description>
-    </item>
-    
-    <item>
-      <title>Skill Development Training Program (NCLP)-(2017-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/children/a-copy-4/</link>
-      <pubDate>Sat, 10 Aug 2019 18:29:47 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/children/a-copy-4/</guid>
-      <description>&amp;emsp;&amp;emsp;The government had initiated the National Child Labour Project (NCLP) Scheme in 1988 to rehabilitate working children in 12 child labour endemic districts of the country. The project societies are required to conduct a survey to identify children working in hazardous occupations and processes. These children will then form the target group for the project society. Of the children identified those in the age group 5-8 years will have to be mainstreamed directly to the formal education system through the SSA.</description>
-    </item>
-    
-    <item>
-      <title>Youth Development Activities</title>
-      <link>https://www.realcharitabletrust.org/projects/youth/b/</link>
+      <title>Youth Development Projects</title>
+      <link>https://www.realcharitabletrust.org/youth-development-projects/home/</link>
       <pubDate>Sat, 10 Aug 2019 16:39:04 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/projects/youth/b/</guid>
-      <description> Youth force is one of the significant of the society and tapping the potentials of the youth force is crucial for the integrated development of the community. The trust does it all in a simple way and shows the youth ways and means to grow well through the following program:
-  Organizing and motivating youth especially unorganized and slum youth groups Creating awareness on socio-economic, political, education, cultural, moral and health aspects Awareness on HIV/AIDS ,TB &amp;amp; Anti-Tobacco programs Conducting vocational skills Health and Hygienic Training on Income generation programs Rehabilitation Career guidance and job placement Individual and Group counselling Media awareness  </description>
+      <guid>https://www.realcharitabletrust.org/youth-development-projects/home/</guid>
+      <description>Tapping the potentials of youth force is very crucial for the holistic development of the Nation. RCT works with the youth of the Nation who are in need of quality education, skills development, health, personality development, etc. The trust educates the youth for taking up major social and entrepreneurial roles in the society through carrier guidance and leadership training programs.
+Our trust is dedicated to imparting moral values, ethics, skills, etc.</description>
     </item>
     
     <item>
-      <title>Puzhal Central jail Intervention-Community College (2017-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/youth/b-copy/</link>
-      <pubDate>Sat, 10 Aug 2019 15:41:04 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/youth/b-copy/</guid>
-      <description>As the Community Colleges were emerging there was the need felt by the Colleges to have a coordinating agency, Indian Centre for Research and Development of Community Education (ICRDCE) one among them to help and serve the Community College Movement. Alliance with ICRDCE, Real Charitable Trust, strived in implementing this project for the convicted prisoners for their development of skills and improves their education for their livelihood through Mahatma Gandhi Community college.</description>
-    </item>
-    
-    <item>
-      <title>Women Empowerment activities</title>
-      <link>https://www.realcharitabletrust.org/projects/women/c/</link>
+      <title>Women Empowerment Projects</title>
+      <link>https://www.realcharitabletrust.org/women-empowerment-projects/home/</link>
       <pubDate>Sat, 10 Aug 2019 14:35:36 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/projects/women/c/</guid>
-      <description> Women are the potential resource for any development in the society. They play a pivotal role in shaping the family, which is the basic unit of the larger community. Our trust realizes the key function and catalyst role of the woman in the society and has organized rural and urban women in the following developmental programs,
-  Formation of women association Motivation and awareness creation Promotion of savings and credit societies Self Help Schemes Training programs on Income generation, production and marketing Health awareness programs and medical camps Legal, social-political awareness  </description>
+      <guid>https://www.realcharitabletrust.org/women-empowerment-projects/home/</guid>
+      <description>Women empowerment projects encourage them to improve their livelihood. We have formed Self Help Groups (SHG) for women to be independent. Empowering women is everyone’s basic duty and we appeal to everyone who is reading this to take care of the women in your family and give your love, time, energy and financial freedom for them. When women in your family live happily, the society grows and so does a Nation.</description>
     </item>
     
     <item>
-      <title>Environmental Development Activities</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d/</link>
+      <title>Environmental protection Projects</title>
+      <link>https://www.realcharitabletrust.org/environmental-protection-projects/home/</link>
       <pubDate>Sat, 10 Aug 2019 13:30:37 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d/</guid>
-      <description>Environmental programmes are one among the prime activities of the Real Charitable Trust. It has been concentrating more on these aspects jointly with government and non-government agencies. The main aim of this program is to create a garbage-free and hygienic society. The prime concept of this objective is to Refuse, Reduce, Reuse and Recycle the unwanted garbage. The following activities are going on through this important venture,
-  Collection and segregation of garbage, distribution of bins to encourage the public in SWM Disposal of unwanted garbage Initiating income generation programs for the rag pickers and other weaker section of the people Creating awareness among the people especially educational institutions about pollution, environment, and hygiene Health and Hygienic awareness programme Educating people to refuse plastic bags and products Practising of the aerobic method of composting Production of vermin manure Initiating tree plantation and urban gardening Awareness of Health and Hygiene and Toilet clean campaign in Government and Corporation Schools.</description>
+      <guid>https://www.realcharitabletrust.org/environmental-protection-projects/home/</guid>
+      <description>RCT aims to create a clean and green environment. The projects are hygiene improvement, afforestation, Solid Waste Management, Say NO to plastics, building proper Sanitation facilities, etc. We work with government and NGOs create a litter-free and hygienic environment. The objective is to Reduce, Reuse and Recycle.
+The following activities are a part of environmental protection  Solid Waste Management. Clearing garbage from houses and the environment. Creating awareness about environmental protection.</description>
     </item>
     
     <item>
-      <title>Apollo Tyres Foundation- Clean My Transport Nagar (2015-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy/</guid>
-      <description>The Clean My Transport Nagar (CMTN) targets to improve waste management and cleanliness of certain transport Nagar (hubs) in India. The initiative also aims to generate awareness on health and sanitation among stakeholders. Real Charitable Trust was privileged to work alliance with Apollo Tyres Foundations, in CMDN Truck Terminal, Madhavaram, Chennai, Tamil Nadu. We are being in these activities since from 2015, and implementing the mission of Apollo Tyres Foundation “Clean My Transport Nagar”.</description>
-    </item>
-    
-    <item>
-      <title>Indian Oil Corporation-School Intervention Programme (2015-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-2/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-2/</guid>
-      <description>Indian Oil is country’s largest commercial enterprise and flagship national Oil Company Apart from providing petroleum products which are crucial to turning the wheels of progress of the nation, Indian Oil also understands the importance of creating a benevolent social impact of its work and minimizing the adverse impact of energy use on ecology. Indian Oil’s Corporate Social Responsibility (CSR) is guided by its corporate vision of caring for the environment and community.</description>
-    </item>
-    
-    <item>
-      <title>Individual Household Latrine Construction (2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-3/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-3/</guid>
-      <description>Under Swachh Bharat Mission, Ministry of Housing and Urban Affairs announced the IHHL Scheme (Individual Household Latrine Construction). The vision of this project is to have toilets for every individual household and keep surrounding as open defecation free. The Target Group for construction of household units of Toilets, thus, is: (i) 80% of urban households engaging in open defecation (ii) All households with unsanitary latrines (iii) All households with single-pit latrines.</description>
-    </item>
-    
-    <item>
-      <title>ONGC- Health and Hygiene Programme (2015-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-4/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-4/</guid>
-      <description>As a public sector enterprise, Oil and Natural Gas Corporation Limited (ONGC) has a long and cherished tradition of commendable initiatives, institutionalized programs and practices of Corporate Social Responsibility which have played a laudable role in the development of several underdeveloped regions of the country. ONGC ensures that its corporate social responsibility (CSR) engagements are impactful and deliver sustainable change in the lives of our stakeholder communities, including Employees, Shareholders, Vendors, and Operational Communities.</description>
-    </item>
-    
-    <item>
-      <title>Resource Recovery Center Maintenance (2018- )</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-5/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-5/</guid>
-      <description>We are also being given the order to carry on the Resource recovery centres of Greater Chennai Corporation Zone-3, Madhavaram. Monitoring and maintenance of the resource recovery centre, where all the segregated waste would come from different divisions of zone 3.</description>
-    </item>
-    
-    <item>
-      <title>Industrials and Institutions (2017-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-6/</link>
-      <pubDate>Sat, 10 Aug 2019 13:08:35 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-6/</guid>
-      <description>We have been working in solid waste management programme since from 2007 in an urban-rural area, exactly in Chennai, Kancheepuram and Thiruvallur Districts. We are also carrying out Gardening and solid waste management in different parts of the above areas. Especially we are handling waste management and maintenance at T.V.K Industrial Estate, SIDCO, Guindy, of Chennai District and Tirumazhisai Industrial Estate, SIDCO, Tirumazhisai of Thiruvallur District, and Mambakkam Sipcot, Asian Paints, Metecno of Kancheepuram District for past five years.</description>
-    </item>
-    
-    <item>
-      <title>CRISIL Foundation - 360-degree Approach Equip and Empower the Rag Pickers Through SWM.</title>
-      <link>https://www.realcharitabletrust.org/projects/environmental/d-copy-7/</link>
-      <pubDate>Sat, 10 Aug 2019 13:07:37 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/environmental/d-copy-7/</guid>
-      <description>CRISIL Foundation, as it stands today, is a public charitable trust. Set up in March 2013, we are CRISIL’s corporate social responsibility (CSR) arm, reaching out to socially and economically disadvantaged communities within and beyond our areas of operations. CRISIL Foundation’s flagship financial capability-building programme empowers disadvantaged communities by strengthening their financial capabilities.
-
-Real Charitable Trust is much privileged to be connected with CRISIL’s corporate social responsibility (CSR) arm. We had been with the alliance of CRISIL by the concept of 360-degree Approach, to equip and empower the rag pickers through the solid waste management system.</description>
-    </item>
-    
-    <item>
-      <title>Formation of Self Help Group (SHG) (2016-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/women/c-copy/</link>
-      <pubDate>Sat, 10 Aug 2019 13:05:36 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/women/c-copy/</guid>
-      <description>The self-help group movement, largely confined to women until now, is being extended to men in the area. Real Trust, has established around 80 women SHGs and 5 men at various locations in the year 2016. Members of the groups have a regular meeting and are motivated. Our main goal is ensuring holistic development of women and girls under distress through counselling and Rehabilitation measures. We also provide membership training, animators and representative training and EDP training for income generation activities at Nehru Nagar, MGR Nagar, C.</description>
-    </item>
-    
-    <item>
-      <title>Health and Aged Care Programme</title>
-      <link>https://www.realcharitabletrust.org/projects/health/e/</link>
+      <title>Elderly Care Projects</title>
+      <link>https://www.realcharitabletrust.org/elderly-care-projects/home/</link>
       <pubDate>Sat, 10 Aug 2019 12:25:36 +0530</pubDate>
       
-      <guid>https://www.realcharitabletrust.org/projects/health/e/</guid>
-      <description>The main aim of this program is to create awareness among people, especially those most disadvantaged in society, about the welfare measures. Real Charitable Trust has been concentrating more awareness programs to highlight the State and Central government schemes in all developmental sectors.
- Programs, such as awareness camps, seminars, rallies, etc., are conducted regularly with the help of government agencies and like-minded NGOs. These programs encourage people to utilize government organizations’ facilities in the promotion of their own personal development.</description>
-    </item>
-    
-    <item>
-      <title>Care for the Aging</title>
-      <link>https://www.realcharitabletrust.org/projects/health/e-copy/</link>
-      <pubDate>Sat, 10 Aug 2019 11:16:36 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/health/e-copy/</guid>
-      <description>Aged people are the most uncared for and isolated members of society. Many of the families feel that aged parents are a burden to the growth of the family. It is difficult for poor families to support their aged members and often these people are left without care.
-Based on the objectives of the trust, the following activities have been carried out successfully for the past 10 years:
- Creating security by placing them in their own homes Extending counselling to create self-confidence Carrying out health programs Extending recreation programs to refresh their mind and body Distributing basic amenities Reunion with the families Accommodating helpless in the ageing home  </description>
-    </item>
-    
-    <item>
-      <title>NULM-Shelter for Urban Homeless-Men (2016-2018)</title>
-      <link>https://www.realcharitabletrust.org/projects/health/e-copy-2/</link>
-      <pubDate>Sat, 10 Aug 2019 11:16:36 +0530</pubDate>
-      
-      <guid>https://www.realcharitabletrust.org/projects/health/e-copy-2/</guid>
-      <description>National Urban Livelihoods Mission (NULM) aims at providing permanent shelter equipped with essential services to the urban homeless in a phased manner under the Scheme of Shelter for Urban Homeless (SUH).
-The objectives of the Shelter for Urban Homeless (SUH) component of NULM scheme are to:
- Ensure availability and access of the urban homeless population to permanent shelters including the basic infrastructure facilities like water supply, sanitation, safety and security.</description>
+      <guid>https://www.realcharitabletrust.org/elderly-care-projects/home/</guid>
+      <description>We feel that today&#39;s generation has better compassion and respect for the elders, than their previous generation which witnessed a lot of financial and family hurdles forcing them to leave elders at old age homes or alone. If you take social media and cinema,youngsters share a lot of useful thoughts and messages about caring elders. We at RCT, has given old age homes, not just for accommodation and food, but also to enable to join with their families again, provide employment, healthcare and complete rehabilitation.</description>
     </item>
     
   </channel>
