@@ -6,11 +6,9 @@ date: 2019-08-10T12:25:36+05:30
 tags: ["elder","projects"]
 draft: false
 ---
+We feel that today’s generation has better compassion and respect for the elders than their previous generation which witnessed a lot of financial and family hurdles forcing them to leave elders at old age homes or alone. If you take social media and cinema, youngsters share a lot of useful thoughts and messages about caring elders. We at RCT has given old age homes, not just for accommodation and food, but also to enable to join with their families again, provide employment, healthcare and complete rehabilitation.
 
-
-We feel that today's generation has better compassion and respect for the elders, than their previous generation which witnessed a lot of financial and family hurdles forcing them to leave elders at old age homes or alone. If you take social media and cinema,youngsters share a lot of useful thoughts and messages about caring elders. We at RCT, has given old age homes, not just for accommodation and food, but also to enable to join with their families again, provide employment, healthcare and complete rehabilitation.
-
-## NULM-Shelter for urban homeless men (2016-2018)
+## NULM-Shelter for urban homeless men (Since 2016)
 
 National Urban Livelihood Mission (NULM) aims at providing permanent shelter equipped with essential services to the urban homeless in a phased manner under the Scheme of Shelter for Urban Homeless (SUH).
 
@@ -32,3 +30,23 @@ As dusk sets in, they yearn for a place to stay and for a morsel of food with th
 3. Regular health check-up and treatments if necessary.
 4. Recreation.
 5. Reunite with families.
+
+### Achievements
+
+- 84 inmates got counselling.
+- 28 inmates were rehabilitated and re-joined with their parents and spouse.
+- At present, 48 inmates are taken care of at Home.
+- Conducted 167 individual counselling sessions, 53 group therapy, 30 home visits, 30 follow-ups and 1 referral.
+- Conducted 47 community awareness programmes on Swadhar functions, women’s rights, issues of domestic violence, dowry and legal provision of women etc. 764 members participated. As a result, 19 inmates were referred to our home by the community.
+- Vocational training was provided to 38 inmates on tailoring, embroidering, basket making with bamboo, cover making and flower garland. 28 inmates became entrepreneurs.
+
+### Impact
+
+This project successfully reunited 28 deserted inmates with their family members through the counselling process and made them financially independent by providing vocational training.
+
+- 84 inmates got counselling.
+- 28 inmates were rehabilitated and re-joined with their parents and spouse.
+- At present, 48 inmates are taken care of at Home.
+- Conducted 167 individual counselling sessions, 53 group therapy, 30 home visits, 30 follow-ups and 1 referral.
+- Conducted 47 community awareness programmes on Swadhar functions, women’s rights, and issues of domestic violence, dowry and legal provision of women etc. 764 members participated. As a result, the community referred 19 inmates to our home.
+- Vocational training was provided to 38 inmates on tailoring, embroidering, basket making with bamboo, cover making and flower garland. 28 inmates became entrepreneurs.

@@ -84,7 +84,6 @@ Our trust organized this training program in collaboration with Tamil Nadu Slum 
 5. Aruna of Chennai Corporation spoke about,
     - How youth should care for their health and physique.
     - The prevention of TB and identification of communicable diseases.
-    
     - Working with NGOs in maintaining a clean environment.
 6. Yesudoss spoke about degradable and non-degradable wastes and how to segregate it.
 7. Deena spoke about strengthening individuals.
@@ -96,6 +95,7 @@ Our trust organized this training program in collaboration with Tamil Nadu Slum 
 13. Govindaraj delivered the vote of thanks.
 
 ## CRISIL Foundation – A 360 degree approach to equip and empower the rag pickers through SWM, 2013
+
 ![RCT_children_sangam](/images/crisil.jpg)
 CRISIL Foundation is a public charitable trust. Formed on March 2013, CRISIL's CSR arm reaches out to socially and economically disadvantaged communities, even beyond their areas of operations. CRISIL Foundation's flagship financial capability-building programme empowers disadvantaged communities by strengthening their financial capabilities.
 

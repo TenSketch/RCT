@@ -11,13 +11,14 @@ Tapping the potentials of youth force is very crucial for the holistic developme
 
 Our trust is dedicated to imparting moral values, ethics, skills, etc. so that they become socially responsible citizens. More than 2500 youths are benefited every year.
 
-## The trust conducts the following projects:
- - Life skills training.
- - Awareness and training on health, Sports and career.
- - Individual and Group Counseling.
- - Rehabilitation
- - Capacity Building.
- - Communication and personality development training.
+## The trust conducts the following projects
+
+- Life skills training.
+- Awareness and training on health, Sports and career.
+- Individual and Group Counseling.
+- Rehabilitation
+- Capacity Building.
+- Communication and personality development training.
 
 ## Education
 
@@ -44,7 +45,9 @@ On the eve of observing Anti-Tobacco Day 31st May 2015 at Thondiyarpet, an aware
 Cancer is a disease that affects women mostly and could be cured at the initial stages. We have organized 5 awareness programs for women from Red Hills, Perambur, Vyasarpadi, Ayanavaram and Avadi in which around 200 women took part. Ms. Gomati, Ms. Kalavathy and Ms. Shyamala from health sector were invited as resource persons and they taught the women with a pictorial album. The women gained more information on its effects and prevention of cancer.
 
 ## De-addiction
+
 **Objectives:**
+
 - Ensure sobriety among addicts of Slum youth.
 - To increase the number of services rendered to alcoholic addicts by 20% in one year.
 - To continuously assist recovered youths so that the relapse is reduced by 10%.

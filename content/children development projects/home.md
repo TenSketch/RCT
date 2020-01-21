@@ -8,9 +8,9 @@ categories: ["projects"]
 draft: false
 ---
 
-Every child has the right to good education and health. The future of a nation mainly depends on the Gross National Happiness which is proportionate to the growth and development of children.
-
+Every child has the right to good education and health. The future of a nation mainly depends on the Gross National Happiness, which is proportionate to the growth and development of children.
 Real Charitable Trust focusses on nurturing the personal and social life of children. The goal is to provide equal rights to every child without any social, economic and religious differences. RCT served more than 1500 children in and around the slums of Chennai.
+
 ![RCT_children_developement_projects](/images/2nd-pic-child.jpg)
 
 ## Our projects under Children development are
@@ -29,9 +29,6 @@ Real Charitable Trust focusses on nurturing the personal and social life of chil
 We have formed 200 Children Sangams in and around Chennai, Thiruvallur and Kanchipuram district of Tamil Nadu. Through this, the following services and events have been conducted so far,
 
 - Awareness programs on Child Rights.
-- Promotion of quality Anganwadi centres with Pacca building.
-- Display of information board about the services of Anganwadi centres- indoor and outdoor services.
-- Observation of Anganwadi Day on November 21 of every year.
 - Provided them basic necessities like Pure drinking water, child-friendly toilets, electricity, playground, Modern kitchen and garden.
 
 We had sent the copies of resolutions to Tamil Nadu Forces for State-level advocacy program.
@@ -45,7 +42,7 @@ We had sent the copies of resolutions to Tamil Nadu Forces for State-level advoc
 - To organize a summer camp for Personality Development
 - To conduct Parents Teachers Meeting (PTA)
 
-In 2007, we formed the supplementary education centre in Chennai to help children after school **Around 862 Children have been benefited through 18 centres** in and around Chennai.
+Since 2007, we have been working on supplementary education centres in Chennai to help children after school **Around 862 Children have been benefited through 18 centres** in and around Chennai.
 
 As a part of this, we organized **summer camp for Personality Development** for Children. In this camp, school headmaster, personnel from All Women Police Station, representatives from Allegation Management, Experts from the various sector presided. In this program, children learnt how to use a bank, book tickets, etc. An awareness of the ill-effects of drug addiction was also given to them. Children magazine were printed which contains case studies, stories, proverbs, creative paintings, poems etc.
 
@@ -69,7 +66,7 @@ RCT conducted **Global Handwashing day October 15 and Children's Day November 14
 
 The National Child Labour Prevention Program was conducted in the Government observation home at Royapuram with support of Chennai Corporation. Majority of the slum children have discontinued their studies and are employed as child labourers due to poverty and family challenges.
 
-We formed this intervention in 2008 and identified the child labours in the Wall Tax Road, Sarma Nagar, Ambattur Estate, Guindy, Madavaram, Thirumazhisai, Thirumudivakkam and Korukkupet. Most of these children were employed as rag pickers in the Ezhil Nagar dumping yard. Around 125 children have been enrolled in regular school through this intervention in urban and rural areas. The team also sends children to vocational training centres for improving their skills.
+Since 2008, we are working on identifying the child labours across Chennai. Most of these children were employed as rag pickers in the Ezhil Nagar dumping yard. Around 125 children have been enrolled in regular school through this intervention in urban and rural areas. The team also sends children to vocational training centres for improving their skills.
 
 ### The steps in this process are
 

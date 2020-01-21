@@ -2,6 +2,6 @@ baseURL = "https://www.realcharitabletrust.org/"
 languageCode = "en-us"
 title = "Real Charitable Trust"
 theme = "charity-hugo-theme"
-
 [params]
-    description = "charity organization"
+description = "The vision of RCT is to protect human rights and the environment."
+keywords = "charity, donate, Charitable, children, youth, environment, women, elder, solid waste management, trees, plants, afforestation, protection, human rights, care, education, health, support, social work, ngo, social service,  social work organization, social service organization, social work organization in chennai, social service organization in chennai, donate for a cause, CSR, CSR activities, CSR partners"
