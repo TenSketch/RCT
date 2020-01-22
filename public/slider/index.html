@@ -31,31 +31,33 @@
 </head>
 <body>
   <nav class="navbar navbar-dark fixed-top navbar-expand-lg">
-    <a href="https://www.realcharitabletrust.org/" class="navbar-brand">Real Charitable Trust</a>
-    <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div id="my-nav" class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#about" aria-label="about section link">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#projects" aria-label="Projects section link">Projects</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#gallery1" aria-label="Gallery section link">Gallery</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#contact" aria-label="contact section link">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="tel:+919710394002" aria-label="RCT contact number">
-                    <i class="fa fa-mobile mr-2" aria-hidden="true"></i>91-9710394002
-                </a>
-            </li>
-        </ul>
+    <div class="container">
+        <a href="https://www.realcharitabletrust.org/" class="navbar-brand">Real Charitable Trust</a>
+        <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="my-nav" class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#about" aria-label="about section link">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#projects" aria-label="Projects section link">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#gallery1" aria-label="Gallery section link">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact" aria-label="contact section link">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tel:+919710394002" aria-label="RCT contact number">
+                        <i class="fa fa-mobile mr-2" aria-hidden="true"></i>91-9710394002
+                    </a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>
   
@@ -109,18 +111,19 @@
     }
      
     @media (max-width: 576px) {
-        .carousel-item::after {
-            opacity: 0;
-        }
+     
         .carousel-caption {
             bottom: 5% !important;
+            background-color:#0e125c56;
+            border-radius: 5px;
         }
         .carousel-caption h1 {
             font-size: 1.5rem !important;
+            text-transform: initial;
         }
         .carousel-caption h3 {
             font-size: 1rem !important;
-            line-height: 1.5rem !important;
+            line-height: 1.3rem !important;
         }
     }
     .carousel-caption h1 {
@@ -364,11 +367,21 @@ Mission  Support elderly people with necessities of life. Empower children to co
         <div class="masonry">
             
             <div class="masonry-item">
-                <a href="/images/women_1.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
+                <a href="/images/youth_3.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/women_1.jpg" alt="Women_1">
-                        <h3 class="masonry-title">Women_1</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/youth_3.jpg" alt="Youth workshop">
+                        <h3 class="masonry-title">Youth workshop</h3>
+                        
+                    </div>
+                </a>
+            </div>
+            
+            <div class="masonry-item">
+                <a href="/images/youth_1.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
+                    <div class="masonry-content">
+                        <img class="img-fluid" src="/images/youth_1.jpg" alt="Youth workshop on HIV/Aids">
+                        <h3 class="masonry-title">Youth workshop on HIV/Aids</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -376,9 +389,19 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/women_2.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/women_2.jpg" alt="Women_1">
-                        <h3 class="masonry-title">Women_1</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/women_2.jpg" alt="Women&#39;s day and Youth workshop">
+                        <h3 class="masonry-title">Women&#39;s day and Youth workshop</h3>
+                        
+                    </div>
+                </a>
+            </div>
+            
+            <div class="masonry-item">
+                <a href="/images/women_1.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
+                    <div class="masonry-content">
+                        <img class="img-fluid" src="/images/women_1.jpg" alt="Women&#39;s day workshop">
+                        <h3 class="masonry-title">Women&#39;s day workshop</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -386,9 +409,9 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/environment_1.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/environment_1.jpg" alt="Environment_1">
-                        <h3 class="masonry-title">Environment_1</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/environment_1.jpg" alt="CMTN Apollo tyres">
+                        <h3 class="masonry-title">CMTN Apollo tyres</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -396,9 +419,9 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/environment_2.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/environment_2.jpg" alt="Environment_1">
-                        <h3 class="masonry-title">Environment_1</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/environment_2.jpg" alt="CMTN meet">
+                        <h3 class="masonry-title">CMTN meet</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -406,9 +429,9 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/1-elder.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/1-elder.jpg" alt="1 Elder">
-                        <h3 class="masonry-title">1 Elder</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/1-elder.jpg" alt="Elder Shelter homes">
+                        <h3 class="masonry-title">Elder Shelter homes</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -416,19 +439,9 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/2-elder.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/2-elder.jpg" alt="1 Elder">
-                        <h3 class="masonry-title">1 Elder</h3>
-                        <p class="masonry-description"></p>
-                    </div>
-                </a>
-            </div>
-            
-            <div class="masonry-item">
-                <a href="/images/1-children.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
-                    <div class="masonry-content">
-                        <img class="img-fluid" src="/images/1-children.jpg" alt="1_children">
-                        <h3 class="masonry-title">1_children</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/2-elder.jpg" alt="Food for elders">
+                        <h3 class="masonry-title">Food for elders</h3>
+                        
                     </div>
                 </a>
             </div>
@@ -436,9 +449,19 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="masonry-item">
                 <a href="/images/2-children.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
                     <div class="masonry-content">
-                        <img class="img-fluid" src="/images/2-children.jpg" alt="1_children">
-                        <h3 class="masonry-title">1_children</h3>
-                        <p class="masonry-description"></p>
+                        <img class="img-fluid" src="/images/2-children.jpg" alt="Children health education">
+                        <h3 class="masonry-title">Children health education</h3>
+                        
+                    </div>
+                </a>
+            </div>
+            
+            <div class="masonry-item">
+                <a href="/images/1-children.jpg" data-fancybox="gallery" aria-label="RCT Gallery">
+                    <div class="masonry-content">
+                        <img class="img-fluid" src="/images/1-children.jpg" alt="Children Sports meet">
+                        <h3 class="masonry-title">Children Sports meet</h3>
+                        
                     </div>
                 </a>
             </div>
