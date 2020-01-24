@@ -11,7 +11,7 @@ Tapping the potentials of youth force is very crucial for the holistic developme
 
 Our trust is dedicated to imparting moral values, ethics, skills, etc. so that they become socially responsible citizens. More than 2500 youths are benefited every year.
 
-## The trust conducts the following projects
+## Programs
 
 - Life skills training.
 - Awareness and training on health, Sports and career.
@@ -46,7 +46,7 @@ Cancer is a disease that affects women mostly and could be cured at the initial 
 
 ## De-addiction
 
-**Objectives:**
+### Objectives
 
 - Ensure sobriety among addicts of Slum youth.
 - To increase the number of services rendered to alcoholic addicts by 20% in one year.
@@ -54,7 +54,7 @@ Cancer is a disease that affects women mostly and could be cured at the initial 
 - To organize awareness program for Government officials, private practitioners, Educational institutions and NGO's on handling alcoholic addicts
 - To network with the related departments and CBO's to strengthen the services to the entire district.
 
-**Activities**
+### Activities
 
 This program targets high-risk groups, women SHG's, Youth clubs, School students and the general public. With the help of Alcoholic Anonymous (AA) meetings, sober patients shared their peace and joyfulness of drug-free life and motivated the members to remain sober.
 

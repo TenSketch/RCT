@@ -32,7 +32,7 @@
 <body>
   <nav class="navbar navbar-dark fixed-top navbar-expand-lg">
     <div class="container">
-        <a href="https://www.realcharitabletrust.org/" class="navbar-brand">Real Charitable Trust</a>
+        <a href="https://www.realcharitabletrust.org/" class="navbar-brand" title="Home page" aria-label="home page of RCT">Real Charitable Trust</a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -52,7 +52,7 @@
                     <a class="nav-link" href="#contact" aria-label="contact section link">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="tel:+919710394002" aria-label="RCT contact number">
+                    <a class="nav-link" href="tel:+919710394002" aria-label="RCT contact number" title="Click to call">
                         <i class="fa fa-mobile mr-2" aria-hidden="true"></i>91-9710394002
                     </a>
                 </li>
@@ -62,14 +62,18 @@
 </nav>
   
 <style>
-    .carousel-fade .carousel-inner .carousel-item {
-        transition: -webkit-transform 10s ease;
-        transition: transform 10s ease;
-        transition: transform 10s ease,
-            -webkit-transform 10s ease;
-    }
-
      
+     .carousel-item::after {
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgb(29, 29, 29);
+        opacity: 0.5;
+    }
     .carousel-caption {
         bottom: 45% !important;
     }
@@ -83,25 +87,9 @@
         height: 100%;
     }
 
-    .carousel-caption h1 {
-        text-transform: uppercase;
-    }
-
-    .carousel-item::after {
-        content: "";
-        display: block;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background: #0e125c;
-        opacity: 0.4;
-    }
-
     @media(max-width:991px) {
         .bg-carousel {
-            background-color: rgba(14, 28, 92, 0.842);
+            background-color: #0e1c5c
         }
     }
 
@@ -125,8 +113,6 @@
             line-height: 2rem;
         }
     }
-
-     
     @media (max-width: 576px) {
         .carousel-item::after {
         opacity: 0;
@@ -134,14 +120,13 @@
 
         .carousel-caption {
             bottom: 5% !important;
-            background-color: #0e125c56;
-            border-radius: 5px;
-            padding: 20px 10px;
+             
         }
 
         .carousel-caption h1 {
             font-size: 1.5rem !important;
             text-transform: initial;
+            bottom: 20% !important;
         }
 
         .carousel-caption h3 {
@@ -155,7 +140,7 @@
         color: #fff
     }
 </style>
-<div id="carouselId" class="carousel slide" data-ride="carousel" data-interval="10000">
+<div id="carouselId" class="carousel slide" data-ride="carousel" data-interval="5000">
     <ol class="carousel-indicators d-none d-md-inline-flex">
         
         <li data-target="#carouselId" data-slide-to="0"></li>
@@ -175,10 +160,10 @@
         <div class="carousel-item active">
             
                 <div class="d-flex align-items-center justify-content-center bg-carousel min-vh-100">
-                    <img class="d-block img-fluid" src="/images/1s-child.jpg" alt="Children Development">
+                    <img class="d-block img-fluid" src="/images/1s-child.jpg" alt="Children development">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="animated fadeInDown slow">Children Development</h1 c>
-                        <h3 class="animated fadeInUp slow delay-2s">Empower the children in distress and difficult situation through Non-Formal Education, evening tuition centres and sports club.</h3 class="animated fadeInDown slow">
+                        <h1 class="animated fadeInDown slow">Children development</h1>
+                        <h3 class="animated fadeInUp slow delay-2s">Every child has the right to good education and health.</h3 class="animated fadeInDown slow">
                     </div>
                 </div>
             </div>
@@ -187,10 +172,10 @@
             <div class="carousel-item">
                 
                 <div class="d-flex align-items-center justify-content-center bg-carousel min-vh-100">
-                    <img class="d-block img-fluid" src="/images/2s-environ.jpg" alt="Environmental Development">
+                    <img class="d-block img-fluid" src="/images/2s-environ.jpg" alt="Environmental protection">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="animated fadeInDown slow">Environmental Development</h1 c>
-                        <h3 class="animated fadeInUp slow delay-2s">Promoting community health and clean environment through solid waste management and health-related programmes for ensuring healthy living.</h3 class="animated fadeInDown slow">
+                        <h1 class="animated fadeInDown slow">Environmental protection</h1>
+                        <h3 class="animated fadeInUp slow delay-2s">RCT aims to create a clean and green environment.</h3 class="animated fadeInDown slow">
                     </div>
                 </div>
             </div>
@@ -199,10 +184,10 @@
             <div class="carousel-item">
                 
                 <div class="d-flex align-items-center justify-content-center bg-carousel min-vh-100">
-                    <img class="d-block img-fluid" src="/images/3s-health.jpg" alt="Health and Aged Care">
+                    <img class="d-block img-fluid" src="/images/3s-health.jpg" alt="Elderly care">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="animated fadeInDown slow">Health and Aged Care</h1 c>
-                        <h3 class="animated fadeInUp slow delay-2s">Enhance the needy people for sustainable development through community mobilization and organization to provide health care and accommodation.</h3 class="animated fadeInDown slow">
+                        <h1 class="animated fadeInDown slow">Elderly care</h1>
+                        <h3 class="animated fadeInUp slow delay-2s">Compassion, care and respect for the elders.</h3 class="animated fadeInDown slow">
                     </div>
                 </div>
             </div>
@@ -211,10 +196,10 @@
             <div class="carousel-item">
                 
                 <div class="d-flex align-items-center justify-content-center bg-carousel min-vh-100">
-                    <img class="d-block img-fluid" src="/images/4s-women.jpg" alt="Women Empowerment">
+                    <img class="d-block img-fluid" src="/images/4s-women.jpg" alt="Women empowerment">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="animated fadeInDown slow">Women Empowerment</h1 c>
-                        <h3 class="animated fadeInUp slow delay-2s">Facilitate the women to be empowered through the formation of self-help groups and women’s rights education and safety and entrepreneurial training.</h3 class="animated fadeInDown slow">
+                        <h1 class="animated fadeInDown slow">Women empowerment</h1>
+                        <h3 class="animated fadeInUp slow delay-2s">Women empowerment through Self Help Groups (SHG)</h3 class="animated fadeInDown slow">
                     </div>
                 </div>
             </div>
@@ -223,10 +208,10 @@
             <div class="carousel-item">
                 
                 <div class="d-flex align-items-center justify-content-center bg-carousel min-vh-100">
-                    <img class="d-block img-fluid" src="/images/5s-youth.jpg" alt="Youth Development">
+                    <img class="d-block img-fluid" src="/images/5s-youth.jpg" alt="Youth development">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="animated fadeInDown slow">Youth Development</h1 c>
-                        <h3 class="animated fadeInUp slow delay-2s">Educate the youth for taking up the role of leadership in society through carrier guidance and leadership training programmes.</h3 class="animated fadeInDown slow">
+                        <h1 class="animated fadeInDown slow">Youth development</h1>
+                        <h3 class="animated fadeInUp slow delay-2s">Tapping the potentials of youth force through life skills training.</h3 class="animated fadeInDown slow">
                     </div>
                 </div>
             </div>
@@ -242,11 +227,6 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
-<script>
-    $(document).ready(function () {
-        jQuery.fn.carousel.Constructor.TRANSITION_DURATION = 10000  
-    })
-</script>
 
   
 <section id="about" class="py-5 mt-5">
@@ -254,14 +234,14 @@
         
         <div class="row">
             <div class="col-md-6 col-sm-6" data-aos="fade-down" data-aos-duration="1000">
-                <h1>About Us</h1>
+                <h2>About Us</h2>
                 <p>Mr Lawrence from Vyasarpadi, Chennai, founded real Charitable Trust on 26 December 2007.
 Vision The vision of RCT is to protect human rights and the environment.
 Mission  Support elderly people with necessities of life. Empower children to continue primary education and support their health, sports, etc. Protect the environment through Solid Waste Management, afforestation, community cleanliness and hygiene programs. Empower women through Self Help Groups (SHG). Educate and train youth on ethics, values and life skills.</p>
                 <a href="/about/home/" class="btn btn-info">Read more</a>
             </div>
             <div class="col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="1500">
-                <img src="/images/environment_27.jpg" alt="" class="img-fluid rounded-circle">
+                <img src="/images/environment_27.jpg" alt="" class="rounded-circle">
             </div>
         </div>
         
@@ -272,11 +252,11 @@ Mission  Support elderly people with necessities of life. Empower children to co
   
 <section id="projects" class="py-5">
     <div class="container">
-        <h1 class="text-center">Projects</h1>
+        <h2 class="text-center">Projects</h2>
         <ul class="nav nav-tabs  nav-justified" id="myTab" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="children" data-toggle="tab" href="#children-tab" role="tab"
-                    aria-controls="children" aria-selected="true">children</a>
+                    aria-controls="children" aria-selected="true">Children</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="elder" data-toggle="tab" href="#elder-tab" role="tab" aria-controls="elder"
@@ -288,7 +268,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="women" data-toggle="tab" href="#women-tab" role="tab" aria-controls="women"
-                    aria-selected="false">women</a>
+                    aria-selected="false">Women</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" id="youth" data-toggle="tab" href="#youth-tab" role="tab" aria-controls="youth"
@@ -301,7 +281,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
                     <div class="col-md-6">
                         <h5>Every child has the right to good education and health. The future of a nation mainly
                             depends on the Gross National Happiness which is proportionate to the growth and development
-                            of children.<br>Charitable Trust focusses on nurturing the personal and social life of
+                            of children.<br><br>Charitable Trust focusses on nurturing the personal and social life of
                             children. The goal is to provide equal rights to every child without any social, economic
                             and religious differences. RCT served more than 1500 children in and around the slums of
                             Chennai.
@@ -319,7 +299,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
                     <div class="col-md-6">
                         <h5>We feel that today’s generation has better compassion and respect for the elders, than their
                             previous generation which witnessed a lot of financial and family hurdles forcing them to
-                            leave elders at old age homes or alone. If you take social media and cinema, youngsters
+                            leave elders at old age homes or alone.<br><br>If you take social media and cinema, youngsters
                             share a lot of useful thoughts and messages about caring elders. We at RCT, has given old
                             age homes, not just for accommodation and food, but also to enable to join with their
                             families again, provide employment, healthcare and complete rehabilitation.</h5>
@@ -352,7 +332,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
                             Help Groups (SHG) for women to be independent. Empowering women is everyone’s basic duty and
                             we appeal to everyone who is reading this to take care of the women in your family and give
                             your love, time, energy and financial freedom for them. When women in your family live
-                            happily, the society grows and so does a Nation.<br>Our trust supports women to live with
+                            happily, the society grows and so does a Nation.<br><br>Our trust supports women to live with
                             dignity. We create awareness about the importance of education to them and their children.
                             The SHG takes care of their financial need by training them with small business
                             opportunities. LIC gives every woman their basic insurance needed to live peacefully.
@@ -371,7 +351,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
                             Nation. RCT works with the youth of the Nation who are in need of quality education, skills
                             development, health, personality development, etc. The trust educates the youth for taking
                             up major social and entrepreneurial roles in the society through carrier guidance and
-                            leadership training programs.<br>Our trust is dedicated to imparting moral values, ethics,
+                            leadership training programs.<br><br>Our trust is dedicated to imparting moral values, ethics,
                             skills, etc. so that they become socially responsible citizens. More than 2500 youths are
                             benefited every year.</h5>
                         <a href="https://www.realcharitabletrust.org/youth-development-projects/home/" class="btn btn-info">Read more</a>
@@ -388,7 +368,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
   
 <section id="gallery1" class="py-5">
     <div class="container">
-        <h1 class="text-center">Gallery</h1>
+        <h2 class="text-center">Gallery</h2>
         <div class="masonry">
             
             <div class="masonry-item">
@@ -540,11 +520,11 @@ Mission  Support elderly people with necessities of life. Empower children to co
                 <ul class="list-unstyled">
                     <li class="mb-2">
                         <i class="fa fa-phone mr-2" aria-hidden="true"></i>
-                        <a href="tel:+9710394002" aria-label="RCT contact number">+91-9710394002</a>
+                        <a href="tel:+9710394002" aria-label="RCT contact number" title="Click to call">+91-9710394002</a>
                     </li>
                     <li class="mb-2">
                         <i class="fa fa-envelope mr-2"></i><a href="mailto:realcharitabletrust07@gmail.com"
-                            aria-label="RCT email id" target="_top">realcharitabletrust07@gmail.com</a>
+                            aria-label="RCT email id"  title="Click to send email" target="_top">realcharitabletrust07@gmail.com</a>
                     </li>
                 </ul>
                 <div class="social mt-3">
@@ -556,7 +536,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
                         </li class="mr-3">
                         <li>
                             <a href="https://goo.gl/maps/sBk3aspfScrEz7am7" target="_blank" rel="noopener"
-                                aria-label="google business page link of RCT"><i class="fa fa-google"
+                                aria-label="google business page link of RCT" title="find location in google business page"><i class="fa fa-google"
                                     aria-hidden="true"></i></a>
                         </li>
                     </ul>
@@ -599,8 +579,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
             <div class="col-md-8 mx-auto align-self-center">
                 <p>Copyright &copy;
                     <script>document.write(new Date().getFullYear());</script>&nbsp;Real Charitable Trust<br>Made
-                    with&nbsp;<i class="fa fa-heart mr-2" aria-hidden="true"></i>by <a href="https://www.tensketch.com/"
-                        target="_blank" rel="noopener">TenSketch</a></p>
+                    with&nbsp;<i class="fa fa-heart mr-2" aria-hidden="true"></i>by <a href="https://www.tensketch.com/ " title="website developer link" aria-label="website developer link" target="_blank" rel="noopener">TenSketch</a></p>
             </div>
         </div>
     </div>
@@ -630,9 +609,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
   AOS.init();
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-
-<a id="back2Top" title="Back to top" href="#">&#10148;</a>
-<div id="title">&nbsp;</div> 
+ 
 <script>
   $(window).scroll(function () {
     var height = $(window).scrollTop();
@@ -651,6 +628,7 @@ Mission  Support elderly people with necessities of life. Empower children to co
   });
 </script>
 
+<a id="back2Top" title="Back to top" href="#">&#10148;</a>
 <script>
 $('#link').hover(function(){
     $('#title').text($('#link').attr('title'));

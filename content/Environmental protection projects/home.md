@@ -10,7 +10,7 @@ draft: false
 
 RCT aims to create a clean and green environment. The projects are hygiene improvement, afforestation, Solid Waste Management, Say NO to plastics, building proper Sanitation facilities, etc. We work with government and NGOs create a litter-free and hygienic environment. The objective is to Reduce, Reuse and Recycle.
 
-## The following activities are a part of environmental protection
+## Programs
 
 - Solid Waste Management.
 - Clearing garbage from houses and the environment.
