@@ -6,4 +6,4 @@ tags: ["covid"]
 draft: false
 ---
 
-We are running homes for migrant workers elders and daily wage labourers who are suffering without income during lockdown. It would be great if you donate us your generous amount to help us help them.
+We are running homes for migrant workers, elders and daily wage labourers who are suffering without income during this lockdown. It would be great if you donate us your generous amount to help us help them.
